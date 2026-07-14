@@ -1,0 +1,5 @@
+/node_modules/
+/ข้อมูลการพัฒนา/
+login-error.png
+.env
+*.log
