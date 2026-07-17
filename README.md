@@ -13,3 +13,4 @@
   pip install xlwings pandas openpyxl
   ```
   * แต่ใช้เปิดกับเครื่องที่มี excel ในตัวเท่านั้น
+  * <img width="1828" height="305" alt="image" src="https://github.com/user-attachments/assets/741b4825-56c5-489f-8c51-a28bba1a99da" />
